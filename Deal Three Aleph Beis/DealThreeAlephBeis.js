@@ -1,5 +1,5 @@
 var cards = [" ", "א","בּ","ב","ג","ד","ה","ו","ז","ח","ט","י","כּ","כ","ך","ל","מ","ם","נ","ן","ס","ע","פּ","פ","ף","צ","ץ","ק","ר","שׁ","שׂ","תּ","ת",];
-var suits = ["\u05b8", "\u05b7", "\u05b5","\u05b6", "\u05b0", "\u05b4", "\ufb4b", "\u05bb", "\ufb35","\u05b3", "\u05b2", "\u05b1",];
+var suits = [" ", "\u05b8", "\u05b7", "\u05b5","\u05b6", "\u05b0", "\u05b4", "\ufb4b", "\u05bb", "\ufb35","\u05b3", "\u05b2", "\u05b1",];
 
 // names of nikud
 // ["kamatz", "patach", "tzeiri", "segol", "sheva", "chirik", "cholam", "kubutz", "shuruk", "chataf kamatz", "chataf patach", "chataf segol"];
